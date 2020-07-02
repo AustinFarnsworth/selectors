@@ -1,0 +1,19 @@
+.header {
+  background-color: red;
+  height: 75px;
+  width: 250px;
+  color: white;
+  border-radius: 15px 15px 0px 0px;
+  text-align: center;
+}
+
+.name {
+  color: black;
+  text-align: center;
+}
+
+.footer {
+  background-color: red;
+  color: red;
+  border-radius: 0px 0px 15px 15px;
+}
